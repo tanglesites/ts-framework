@@ -1,0 +1,31 @@
+{
+  "name": "tanglesites",
+  "description": "A framework for quick production. No flash, just the facts!",
+  "main": "index.html",
+  "authors": [
+    "Joseph Nathan Burton"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "Simple",
+    "Sass",
+    "framework",
+    "Barebones",
+    "Sass",
+    "Skeleton",
+    "Sass",
+    "framework",
+    "Sass",
+    "Web",
+    "Development"
+  ],
+  "homepage": "www.tangle-sites.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

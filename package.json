@@ -1,0 +1,32 @@
+{
+  "name": "tanglesites",
+  "version": "1.0.0",
+  "description": "A framework for quick production. No flash, just the facts!",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanglesites/ts-framework.git"
+  },
+  "keywords": [
+    "Simple",
+    "Sass",
+    "framework",
+    "Barebones",
+    "Sass",
+    "Skeleton",
+    "Sass",
+    "framework",
+    "Sass",
+    "Web",
+    "Development"
+  ],
+  "author": "Joseph Nathan Burton",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tanglesites/ts-framework/issues"
+  },
+  "homepage": "https://github.com/tanglesites/ts-framework#readme"
+}
